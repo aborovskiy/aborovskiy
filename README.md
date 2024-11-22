@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Andrey 👋
 
-<!--
-**aborovskiy/aborovskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### SEO Specialist from Ukraine 🇺🇦
 
-Here are some ideas to get you started:
+- 🔍 Specializing in content strategies, technical SEO, and link building
+- 📊 Experience in SaaS, gambling, finance, crypto and highly competitive niches
+- 🌍 Working with projects in multiple GEOs (US, EU, Tier 2 & 3)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- [Hostings.info](https://hostings.info) — Hosting provider reviews and ratings
+- [Brokers.Best](https://ru.brokers.best) — Broker reviews and ratings
+
+### 📫 How to Reach Me
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/aborovskiy/)
+- 📧 Email: ab@brokers.best
