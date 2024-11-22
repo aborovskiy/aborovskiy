@@ -8,7 +8,7 @@
 
 ### Projects
 - [Hostings.info](https://hostings.info) — Hosting provider reviews and ratings
-- [Brokers.Best](https://ru.brokers.best) — Broker reviews and ratings
+- [Brokers.Best](https://brokers.best) — Broker reviews and ratings
 
 ### 📫 How to Reach Me
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/aborovskiy/)
